@@ -1,3 +1,9 @@
+$startpost:WebGL:12-6-2023
+Made this in a about a day.
+It's a web based retro voxel game.
+I don't know what kind of gameplay it will have, maybe mining but maybe dungeon exploration... or both
+![Here it is](/game.png)
+$endpost
 $startpost:Github editing!:11-6-2023
 This post was made from *github*!
 $endpost
